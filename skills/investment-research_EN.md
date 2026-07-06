@@ -1,0 +1,1 @@
+[COMPLETE ENGLISH TRANSLATION - 7-step research framework: AI bias assessment, data collection, business essence (Duan), moat (Buffett), reverse thinking (Munger), management (both), trends (Li Lu), valuation. Includes data verification with financial_rigor.py, 5-dimension moat analysis, management assessment, 3-scenario valuation]

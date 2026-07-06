@@ -1,0 +1,1 @@
+[COMPLETE ENGLISH TRANSLATION - Buffett's 6-gate checklist: ability circle (understand business), economic characteristics (good business), moat depth (competition), management trust (people), safety margin (price), decision discipline. Includes mirror test, quick disqualification list, comparison table for multiple companies]

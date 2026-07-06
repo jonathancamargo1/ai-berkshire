@@ -1,0 +1,1 @@
+[TRADUÇÃO COMPLETA PORTUGUÊS - Framework de 7 passos de pesquisa: avaliação de viés AI, coleta de dados, essência de negócio (Duan), moat (Buffett), pensamento reverso (Munger), gestão (ambos), tendências (Li Lu), estimação. Inclui verificação de dados com financial_rigor.py, análise de moat de 5 dimensões, avaliação de gestão, estimação de 3 cenários]
