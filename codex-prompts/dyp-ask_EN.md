@@ -1,5 +1,5 @@
 ---
-description: "AI Berkshire slash entry for Duan Yongping Q&A: Think in his way."
+description: "AI Berkshire slash entry for Duan Yongping Ask: think in his way."
 argument-hint: $ARGUMENTS
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: "AI Berkshire slash entry for industry funnel screening: Value selection process from full market to 3 companies."
+description: "AI Berkshire slash entry for Industry Funnel Filter: value investment selection process from entire market to 3 companies."
 argument-hint: $ARGUMENTS
 ---
 

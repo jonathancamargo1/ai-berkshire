@@ -1,5 +1,5 @@
 ---
-description: "AI Berkshire slash entry for investment research: Four great masters comprehensive analysis framework."
+description: "AI Berkshire slash entry for Investment Research: comprehensive four-master analysis framework - Buffett, Munger, Duan Yongping, Li Lu."
 argument-hint: $ARGUMENTS
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: "AI Berkshire slash entry for management deep dive research: Buying stocks is buying people."
+description: "AI Berkshire slash entry for Management Deep Dive: buying stocks is buying people."
 argument-hint: $ARGUMENTS
 ---
 

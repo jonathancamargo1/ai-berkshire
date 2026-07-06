@@ -1,5 +1,5 @@
 ---
-description: "AI Berkshire slash entry for investment thesis drift detection: Distinguish fact changes from wording changes."
+description: "AI Berkshire slash entry for Investment Thesis Drift Detection: distinguish factual changes from changes in wording."
 argument-hint: $ARGUMENTS
 ---
 

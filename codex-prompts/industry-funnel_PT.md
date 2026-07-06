@@ -1,9 +1,9 @@
 ---
-description: "Entrada AI Berkshire para filtragem de funil do setor: Processo de seleção de valor desde toda a bolsa até 3 empresas."
+description: "AI Berkshire slash entry para Filtragem de Funil de Indústria: processo de seleção de investimento em valor de todo o mercado para 3 empresas."
 argument-hint: $ARGUMENTS
 ---
 
-Use a skill Codex instalada do AI Berkshire `industry-funnel` para este pedido.
+Use a skill instalada do AI Berkshire Codex `industry-funnel` para este pedido.
 
 Se a skill não estiver já carregada, leia e siga `~/ai-berkshire/codex-skills/industry-funnel/SKILL.md`.
 

@@ -1,9 +1,9 @@
 ---
-description: "Entrada AI Berkshire para Q&A de Duan Yongping: Pense ao seu modo."
+description: "AI Berkshire slash entry para Perguntas de Duan Yongping: pensar à sua maneira."
 argument-hint: $ARGUMENTS
 ---
 
-Use a skill Codex instalada do AI Berkshire `dyp-ask` para este pedido.
+Use a skill instalada do AI Berkshire Codex `dyp-ask` para este pedido.
 
 Se a skill não estiver já carregada, leia e siga `~/ai-berkshire/codex-skills/dyp-ask/SKILL.md`.
 
