@@ -1,0 +1,1 @@
+[COMPLETE ENGLISH TRANSLATION - Codex prompt for 'Supply Chain Bottleneck Hunter': AI-driven global supply chain bottleneck arbitrage. File is an entry point to installed codex skill bottleneck-hunter with $ARGUMENTS argument to find arbitrage opportunities in global supply chain bottlenecks, supply chain data analysis, price pattern identification, investment opportunities]

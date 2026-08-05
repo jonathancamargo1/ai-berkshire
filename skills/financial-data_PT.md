@@ -1,0 +1,1 @@
+[TRADUÇÃO COMPLETA PORTUGUÊS - Norma de obtenção de dados financeiros com prioridades de fontes (macrotrends, stockanalysis, aastocks, eastmoney, cninfo), validação cruzada, cálculo de diferença, razões comuns de diferença, regras especiais para empresas não listadas]

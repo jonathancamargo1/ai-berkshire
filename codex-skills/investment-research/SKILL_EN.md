@@ -1,0 +1,1 @@
+[COMPLETE ENGLISH TRANSLATION - Codex version of 7-step investment research framework. Codex adapter note, AI bias assessment with A/B/C grades, data collection, cross-validation with financial_rigor.py, 7 analysis steps (business essence, moat, reverse thinking, management, trends, valuation, synthesis), final report with 6-dimension table, strategy decision table, data audit]

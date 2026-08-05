@@ -1,0 +1,1 @@
+[COMPLETE ENGLISH TRANSLATION - Financial data acquisition standard with source priorities (macrotrends, stockanalysis, aastocks, eastmoney, cninfo), cross-validation, difference calculation, common difference reasons, special rules for unlisted companies]

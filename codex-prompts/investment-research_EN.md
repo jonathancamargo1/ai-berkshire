@@ -1,0 +1,11 @@
+---
+description: "AI Berkshire slash entry for Investment Research: comprehensive four-master analysis framework - Buffett, Munger, Duan Yongping, Li Lu."
+argument-hint: $ARGUMENTS
+---
+
+Use the installed AI Berkshire Codex skill `investment-research` for this request.
+
+If the skill is not already loaded, read and follow `~/ai-berkshire/codex-skills/investment-research/SKILL.md`.
+
+User arguments:
+$ARGUMENTS

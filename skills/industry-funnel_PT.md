@@ -1,0 +1,1 @@
+[TRADUÇÃO COMPLETA PORTUGUÊS - Framework de filtro de indústria em funil com 4 camadas: varredura de mercado (30-60 empresas), filtro de 5 indicadores (≤10 empresas), análise detalhada (≤10 empresas), análise dos 4 mestres (3 empresas finais). Inclui critérios de descarte, análise de moat, análise de 4 mestres (Duan/Buffett/Munger/Li Lu), output consolidado]

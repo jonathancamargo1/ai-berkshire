@@ -1,0 +1,1 @@
+[COMPLETE ENGLISH TRANSLATION - Codex version of 4-agent team framework. Codex adapter note, pre-team AI bias assessment, team creation, 4 parallel tasks (business analyst, financial analyst, industry researcher, risk assessor), progress tracking, team-lead synthesis with 5 dimensions, final report with moats, risks, recommendation, data audit]

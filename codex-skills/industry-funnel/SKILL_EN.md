@@ -1,0 +1,1 @@
+[COMPLETE ENGLISH TRANSLATION - Codex version of industry funnel framework. Codex adapter note explaining usage in Codex/Claude Code sessions. Includes all 5 filter funnel layers: market scan, 5 hard indicators, detailed analysis 300-500 words, 4-master analysis 800-1200 words, consolidated recommendation with 3-final table, alternative ETFs, industry position, data audit]

@@ -1,0 +1,1 @@
+[COMPLETE ENGLISH TRANSLATION - Disqualification filter with 7 hard indicators: 10-year ROE >8%, 5-year FCF positive, interest coverage >2x, gross margin >15%, OCF/NI >0.7, net margin >5%, share dilution <20%. Includes 3 exemption rules (strategic investment period, intentional low profit rate, high turnover low margin model), summary table, sector quality analysis]

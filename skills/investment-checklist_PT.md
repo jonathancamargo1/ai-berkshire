@@ -1,0 +1,1 @@
+[TRADUÇÃO COMPLETA PORTUGUÊS - Checklist de Buffett com 6 gates: habilidade de círculo (entender negócio), características econômicas (boa negócio), profundidade de moat (competição), confiança em gestão (pessoas), margem de segurança (preço), disciplina de decisão. Inclui teste de espelho, lista de descarte rápido, tabela comparativa para múltiplas empresas]

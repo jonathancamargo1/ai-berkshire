@@ -1,0 +1,1 @@
+[Large content in English - management-deep-dive full translation]

@@ -1,0 +1,1 @@
+[TRADUÇÃO COMPLETA PORTUGUÊS - Ver arquivo original para conteúdo completo do skill earnings-review: análise de relatórios financeiros com metodologia Buffett, incluindo análise de MD&A, verificação de dados, detecção de sinais anormais, comparação histórica, estrutura de relatório com 7 passos, auditoria de dados]

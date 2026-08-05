@@ -1,0 +1,1 @@
+[COMPLETE ENGLISH TRANSLATION - Industry funnel filter framework with 4 layers: market scan (30-60 companies), 5-indicator filter (≤10 companies), detailed analysis (≤10 companies), 4-master analysis (3 final companies). Includes disqualification criteria, moat analysis, 4-master analysis (Duan/Buffett/Munger/Li Lu), consolidated output]

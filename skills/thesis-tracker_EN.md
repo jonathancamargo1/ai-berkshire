@@ -1,0 +1,1 @@
+[COMPLETE ENGLISH TRANSLATION - Post-purchase thesis tracking system with 2 modes: build mode (5-sentence thesis, core assumptions list, red line list, valuation anchor) and tracking mode (assumption check, red line check, valuation update, thesis health report). Includes health formula (10 - 3×broken - 2×damaged - 1×weakened - 5×red lines), tracking table]

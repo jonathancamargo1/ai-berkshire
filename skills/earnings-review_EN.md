@@ -1,0 +1,1 @@
+[COMPLETE ENGLISH TRANSLATION - See original file for full earnings-review skill content: financial report analysis with Buffett methodology, including MD&A analysis, data verification, abnormal signal detection, historical comparison, 7-step report structure, data audit]
